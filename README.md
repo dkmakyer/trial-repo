@@ -1,3 +1,3 @@
-# My Web dev journey
+# MY WEB DEV JOURNEY BEGINS
 
-i am now learning how to use Git anf Github.
+I am now learning how to use Git and Github.
